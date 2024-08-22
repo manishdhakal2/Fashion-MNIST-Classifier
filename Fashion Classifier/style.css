@@ -3,7 +3,7 @@ body{
     margin:0px;
     padding:0px;
   
-    background-color: aquamarine;
+    background-color: #A0d2eb;
 }
 .maincont{
     display:flex;
@@ -12,7 +12,7 @@ body{
     align-items: center;
 }
 .header{
-    background-color:rgb(41, 4, 55);
+    background-color:#8458B3;
     width:100%;
     display:flex;
     flex-direction:row;
@@ -26,7 +26,7 @@ body{
     width:70%;
     display:flex;
     flex-direction: column;
-    background-color:rgb(48, 48, 141);
+    background-color:#494d5f;
     border:rgba(0, 255, 0,0.8);
     border-radius:20px;
     justify-content: center;
