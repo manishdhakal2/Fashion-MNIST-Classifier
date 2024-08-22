@@ -14,7 +14,7 @@ function displayImage(event){
     if(image){
         const imageUrl = URL.createObjectURL(image);
         imgElement.src = imageUrl;
-        imgElement.style.width = "16rem"; // Set desired image width
+        imgElement.style.width = "16rem"; 
         imgElement.style.height = "auto"
         plusButton.innerHTML="";
         plusButton.appendChild(imgElement);
